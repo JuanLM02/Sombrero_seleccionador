@@ -31,7 +31,7 @@ El sistema evalúa las cuatro casas a través de constructos de la personalidad 
 ##  Demo en Vivo
 
 Puedes probar la aplicación interactiva directamente en tu navegador sin instalar nada:  
->>>> **[Acceder al Sombrero Seleccionador en Streamlit](https://TU-LINK-DE-STREAMLIT.streamlit.app)**
+>>>> **[Acceder al Sombrero Seleccionador en Streamlit](https://sombreroseleccionador-g7kw5katgi7gpskfcqhlrh.streamlit.app/)**
 ---
 ##  Estructura del Proyecto
 
