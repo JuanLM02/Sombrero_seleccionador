@@ -1,4 +1,4 @@
-# 🪄 Sombrero Seleccionador de Hogwarts
+#  Sombrero Seleccionador de Hogwarts
 
 Una aplicación web interactiva desarrollada con **Python** y **Streamlit** que simula la tradicional Ceremonia de Selección de Hogwarts. 
 
@@ -6,7 +6,7 @@ A diferencia de los tests convencionales basados en respuestas obvias o asignaci
 
 ---
 
-## 🌟 Características Principales
+##  Características Principales
 
 - **Muestreo Estratificado por Categorías:** El banco de preguntas está dividido en 6 dimensiones de personalidad (dilemas morales, toma de decisiones, motivación al logro, reacción a la adversidad, relaciones interpersonales y curiosidad abstracta). Cada partida selecciona preguntas de forma balanceada, asegurando que ninguna casa se vea artificialmente favorecida por azar temático.
 - **Puntuación Ponderada Multidimensional:** Cada opción de respuesta evalúa la afinidad del usuario distribuyendo pesos diferenciados entre casas primarias y secundarias.
@@ -29,7 +29,7 @@ El sistema evalúa las cuatro casas a través de constructos de la personalidad 
 
 ---
 
-## 📁 Estructura del Proyecto
+##  Estructura del Proyecto
 
 ```text
 Sombrero_seleccionador/
