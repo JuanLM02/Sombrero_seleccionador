@@ -41,3 +41,61 @@ Sombrero_seleccionador/
 ├── preguntas.json               # Banco de preguntas estratificado en formato JSON
 ├── requirements.txt             # Dependencias necesarias para el despliegue en la nube
 └── README.md                    # Documentación técnica y guía de uso
+
+---
+
+##  Instalación y Ejecución Local
+
+### Prerrequisitos
+Tener instalado **Python 3.9+** y el gestor de paquetes **pip**.
+
+### 1. Clonar el repositorio
+```bash
+git clone https://github.com/JuanLM02/Sombrero_seleccionador.git
+cd Sombrero_seleccionador
+```
+
+### 2. Instalar dependencias
+```bash
+pip install -r requirements.txt
+```
+
+### 3. Ejecutar la aplicación web
+```bash
+streamlit run app.py
+```
+La aplicación se abrirá automáticamente en tu navegador en `http://localhost:8501`.
+
+*(Opcional) Si deseas ejecutar la versión de consola:*
+```bash
+python sombrero.py
+```
+
+---
+
+##  Despliegue en la Nube (Streamlit Cloud)
+
+El proyecto está preparado para desplegarse de forma gratuita y continua en **Streamlit Community Cloud**:
+
+1. Haz un fork o sube este repositorio a tu cuenta de GitHub.
+2. Ingresa a [share.streamlit.io](https://share.streamlit.io/) e inicia sesión con GitHub.
+3. Haz clic en **New app** y selecciona:
+   - **Repository:** `JuanLM02/Sombrero_seleccionador`
+   - **Branch:** `main`
+   - **Main file path:** `app.py`
+4. Haz clic en **Deploy!** y obtendrás una URL pública permanente para compartir.
+
+---
+
+##  Tecnologías Utilizadas
+
+- **Lenguaje:** Python 3
+- **Framework Web:** [Streamlit](https://streamlit.io/)
+- **Formato de Datos:** JSON
+- **Control de Versiones:** Git & GitHub
+
+---
+
+##  Licencia
+
+Este proyecto fue desarrollado con fines recreativos y educativos. El universo de *Harry Potter* y los nombres de las casas de Hogwarts son propiedad intelectual de J.K. Rowling y Warner Bros. Entertainment Inc.
