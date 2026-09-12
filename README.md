@@ -28,7 +28,11 @@ El sistema evalúa las cuatro casas a través de constructos de la personalidad 
 | **Hufflepuff** | 🦡 | Lealtad, trabajo constante, empatía y equidad | Cohesión comunitaria, resistencia paciente, aversión al conflicto injusto y apoyo incondicional. |
 
 ---
+##  Demo en Vivo
 
+Puedes probar la aplicación interactiva directamente en tu navegador sin instalar nada:  
+>>>> **[Acceder al Sombrero Seleccionador en Streamlit](https://TU-LINK-DE-STREAMLIT.streamlit.app)**
+---
 ##  Estructura del Proyecto
 
 ```text
