@@ -37,8 +37,7 @@ Puedes probar la aplicación interactiva directamente en tu navegador sin instal
 
 ```text
 Sombrero_seleccionador/
-├── app.py              # Aplicación web interactiva en Streamlit (interfaz y flujo)
-├── sombrero.py         # Versión alternativa para ejecución en consola (CLI)
-├── preguntas.json      # Banco de preguntas estratificado en formato JSON
-├── requirements.txt    # Dependencias del entorno de ejecución
-└── README.md           # Documentación técnica del proyecto
+├── appSombreroSeleccionador.py  # Aplicación web interactiva y lógica principal (Streamlit)
+├── preguntas.json               # Banco de preguntas estratificado en formato JSON
+├── requirements.txt             # Dependencias necesarias para el despliegue en la nube
+└── README.md                    # Documentación técnica y guía de uso
