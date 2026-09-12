@@ -1,0 +1,266 @@
+[
+  {
+    "id": 1,
+    "categoria": "dilema_moral",
+    "enunciado": "Descubres información confidencial que demuestra que una norma escolar perjudica injustamente a un grupo vulnerable, pero violarla conlleva la expulsión inmediata. ¿Cómo actúas?",
+    "opciones": [
+      { "texto": "Desafiar la norma en público; la pasividad frente a una regla injusta es complicidad.", "pesos": { "Gryffindor": 3, "Hufflepuff": 1 } },
+      { "texto": "Buscar vacíos legales o contradicciones formales en el reglamento para anularla sin exponerte.", "pesos": { "Ravenclaw": 3, "Slytherin": 1 } },
+      { "texto": "Organizar discretamente una red de apoyo mutuo para proteger y amortiguar el impacto en los afectados.", "pesos": { "Hufflepuff": 3, "Gryffindor": 1 } },
+      { "texto": "Filtrar la información a través de terceros o usarla para negociar concesiones con quien tiene el poder.", "pesos": { "Slytherin": 3, "Ravenclaw": 1 } }
+    ]
+  },
+  {
+    "id": 2,
+    "categoria": "dilema_moral",
+    "enunciado": "Un compañero comete un error grave en un experimento que daña material valioso. Si nadie asume la culpa, todo el curso recibirá un castigo colectivo.",
+    "opciones": [
+      { "texto": "Asumir la responsabilidad o acompañarlo a confesar de inmediato para que nadie pague por un acto individual.", "pesos": { "Gryffindor": 3, "Hufflepuff": 1 } },
+      { "texto": "Hablar con él en privado para convencerlo de que confiese, ofreciéndote a defenderlo y mitigar la sanción.", "pesos": { "Hufflepuff": 3, "Ravenclaw": 1 } },
+      { "texto": "Aportar una reconstrucción analítica del suceso que pruebe objetivamente quién fue sin emitir juicios de valor.", "pesos": { "Ravenclaw": 3 } },
+      { "texto": "Asegurarte de que existan pruebas claras que te deslinden por completo antes de que las sospechas te alcancen.", "pesos": { "Slytherin": 3 } }
+    ]
+  },
+  {
+    "id": 3,
+    "categoria": "dilema_moral",
+    "enunciado": "Para detener una amenaza inminente, la única alternativa eficaz exige emplear un encantamiento oscuro que corrompe levemente a quien lo lanza. ¿Qué determinas?",
+    "opciones": [
+      { "texto": "Asumir la corrupción personal sin dudar si eso salva a los demás del peligro.", "pesos": { "Gryffindor": 3, "Hufflepuff": 1 } },
+      { "texto": "Rechazarlo categóricamente; transgredir ciertos límites éticos destruye la causa misma que defiendes.", "pesos": { "Hufflepuff": 3, "Ravenclaw": 1 } },
+      { "texto": "Ejecutarlo con fría precisión calculando la dosis mínima necesaria para neutralizar la amenaza.", "pesos": { "Slytherin": 3, "Ravenclaw": 1 } },
+      { "texto": "Pausar para buscar o sintetizar una variante no oscura en el margen de tiempo restante.", "pesos": { "Ravenclaw": 3, "Gryffindor": 1 } }
+    ]
+  },
+  {
+    "id": 4,
+    "categoria": "dilema_moral",
+    "enunciado": "Encuentras un artefacto mágico abandonado cuyo dueño original no puede ser identificado. Su uso aumentaría enormemente tus habilidades.",
+    "opciones": [
+      { "texto": "Entregarlo al archivo histórico para que se investigue su origen y se catalogue debidamente.", "pesos": { "Ravenclaw": 3, "Hufflepuff": 1 } },
+      { "texto": "Conservarlo y dominarlo en secreto; si llegó a tus manos, es una ventaja legítima que debes aprovechar.", "pesos": { "Slytherin": 3 } },
+      { "texto": "Buscar exhaustivamente a la familia del portador original antes de considerar cualquier otro destino.", "pesos": { "Hufflepuff": 3 } },
+      { "texto": "Ponerlo a prueba en situaciones reales de riesgo para calibrar si su poder es seguro y digno de ser portado.", "pesos": { "Gryffindor": 3, "Slytherin": 1 } }
+    ]
+  },
+  {
+    "id": 5,
+    "categoria": "toma_decisiones",
+    "enunciado": "Frente a un problema complejo con tiempo límite estricto y sin precedentes registrados, tu primer impulso es:",
+    "opciones": [
+      { "texto": "Descomponer el problema en variables fundamentales y buscar una solución basada en primeros principios.", "pesos": { "Ravenclaw": 3 } },
+      { "texto": "Elegir la hipótesis más prometedora y ejecutarla de inmediato; la parálisis por análisis es el peor fallo.", "pesos": { "Gryffindor": 3, "Slytherin": 1 } },
+      { "texto": "Identificar qué ruta ofrece el mejor balance entre mínimo esfuerzo, menor riesgo y mayor probabilidad de éxito.", "pesos": { "Slytherin": 3, "Ravenclaw": 1 } },
+      { "texto": "Consultar rápidamente con personas de diversas habilidades para construir una solución colectiva.", "pesos": { "Hufflepuff": 3 } }
+    ]
+  },
+  {
+    "id": 6,
+    "categoria": "toma_decisiones",
+    "enunciado": "Durante una expedición, el sendero principal se derrumba y quedan dos caminos: uno largo y seguro, y otro inestable pero que ahorra horas críticas.",
+    "opciones": [
+      { "texto": "Tomar la ruta corta y riesgosa; la audacia y la velocidad definen la supervivencia.", "pesos": { "Gryffindor": 3 } },
+      { "texto": "Tomar la ruta segura; la constancia y preservar las fuerzas del grupo garantizan el objetivo final.", "pesos": { "Hufflepuff": 3 } },
+      { "texto": "Examinar la estructura geológica del paso inestable para estabilizarlo antes de cruzarlo rápidamente.", "pesos": { "Ravenclaw": 3, "Slytherin": 1 } },
+      { "texto": "Evaluar si el costo de llegar tarde supera las pérdidas potenciales de un accidente antes de decidir.", "pesos": { "Slytherin": 3, "Ravenclaw": 1 } }
+    ]
+  },
+  {
+    "id": 7,
+    "categoria": "toma_decisiones",
+    "enunciado": "Recibes una propuesta para formar una alianza con un rival inteligente pero poco confiable. ¿Qué pesa más en tu juicio?",
+    "opciones": [
+      { "texto": "Aceptar solo si redactan términos claros con mecanismos donde la traición le resulte más costosa que cumplir.", "pesos": { "Slytherin": 3, "Ravenclaw": 1 } },
+      { "texto": "Rechazarla; la falta de integridad y confianza mutua corrompe cualquier proyecto a largo plazo.", "pesos": { "Hufflepuff": 3, "Gryffindor": 1 } },
+      { "texto": "Aceptar provisionalmente mientras mantienes un plan de contingencia analítico listo para neutralizarlo.", "pesos": { "Ravenclaw": 3, "Slytherin": 1 } },
+      { "texto": "Aceptar de frente, mirándolo a los ojos y dejándole claro qué pasará si intenta un sabotaje.", "pesos": { "Gryffindor": 3 } }
+    ]
+  },
+  {
+    "id": 8,
+    "categoria": "toma_decisiones",
+    "enunciado": "Tienes que elegir entre dos asignaturas optativas avanzadas y solo hay un cupo disponible en tu horario:",
+    "opciones": [
+      { "texto": "Aquella con la teoría más abstracta y estimulante, aunque tenga poca aplicación inmediata.", "pesos": { "Ravenclaw": 3 } },
+      { "texto": "Aquella que proporcione las habilidades más influyentes y demandadas para escalar profesionalmente.", "pesos": { "Slytherin": 3 } },
+      { "texto": "Aquella que te capacite para resolver problemas prácticos y ayudar directamente a tu comunidad.", "pesos": { "Hufflepuff": 3 } },
+      { "texto": "Aquella con la tasa de reprobación más alta y el profesor más exigente para ponerte a prueba.", "pesos": { "Gryffindor": 3, "Ravenclaw": 1 } }
+    ]
+  },
+  {
+    "id": 9,
+    "categoria": "motivacion_logro",
+    "enunciado": "Al integrarte a un nuevo círculo o institución, ¿cuál es tu objetivo principal?",
+    "opciones": [
+      { "texto": "Ganar una posición de influencia y respeto que te permita dirigir el rumbo de las decisiones.", "pesos": { "Slytherin": 3 } },
+      { "texto": "Aprender todo lo que el entorno pueda enseñarte y expandir tu dominio intelectual.", "pesos": { "Ravenclaw": 3 } },
+      { "texto": "Construir relaciones genuinas, ganarte la confianza de la gente y consolidar un equipo leal.", "pesos": { "Hufflepuff": 3 } },
+      { "texto": "Demostrar tu valía en acciones concretas y no retroceder ante ningún desafío visible.", "pesos": { "Gryffindor": 3 } }
+    ]
+  },
+  {
+    "id": 10,
+    "categoria": "motivacion_logro",
+    "enunciado": "¿Qué tipo de reconocimiento profesional te generaría mayor satisfacción interna?",
+    "opciones": [
+      { "texto": "La admiración pública por haber defendido una causa difícil cuando nadie más se atrevía.", "pesos": { "Gryffindor": 3 } },
+      { "texto": "El aval de los expertos más rigurosos reconociendo la precisión y originalidad de tu trabajo.", "pesos": { "Ravenclaw": 3 } },
+      { "texto": "Saber que tu esfuerzo diario y silencioso permitió que muchas personas prosperaran y vivieran mejor.", "pesos": { "Hufflepuff": 3 } },
+      { "texto": "Ver tu nombre consolidado en la cima de tu disciplina, respaldado por resultados tangibles y poder real.", "pesos": { "Slytherin": 3 } }
+    ]
+  },
+  {
+    "id": 11,
+    "categoria": "motivacion_logro",
+    "enunciado": "Si te ofrecieran liderar un proyecto importante, ¿cuál sería tu condición prioritaria para aceptar?",
+    "opciones": [
+      { "texto": "Tener control decisivo sobre la estrategia, los recursos y la selección del equipo clave.", "pesos": { "Slytherin": 3 } },
+      { "texto": "Libertad total para innovar y explorar soluciones heterodoxas sin trabas burocráticas.", "pesos": { "Ravenclaw": 3 } },
+      { "texto": "Garantías de que el proyecto persiga un fin noble y que todos los involucrados reciban un trato equitativo.", "pesos": { "Hufflepuff": 3 } },
+      { "texto": "Que sea un desafío con impacto directo y verdadero riesgo, no una tarea rutinaria de oficina.", "pesos": { "Gryffindor": 3 } }
+    ]
+  },
+  {
+    "id": 12,
+    "categoria": "motivacion_logro",
+    "enunciado": "Al reflexionar sobre tus ambiciones a largo plazo, ¿qué temes más encontrar en el futuro?",
+    "opciones": [
+      { "texto": "Haber cedido a la cobardía o al conformismo cuando debiste luchar por tus ideales.", "pesos": { "Gryffindor": 3 } },
+      { "texto": "Haber dedicado tu vida a dogmas erróneos sin llegar a comprender la verdad de las cosas.", "pesos": { "Ravenclaw": 3 } },
+      { "texto": "Terminar aislado de tus afectos y darte cuenta de que tu éxito no benefició a nadie.", "pesos": { "Hufflepuff": 3 } },
+      { "texto": "Haberte quedado atrapado en la mediocridad sin alcanzar la influencia ni el potencial que podías tener.", "pesos": { "Slytherin": 3 } }
+    ]
+  },
+  {
+    "id": 13,
+    "categoria": "reaccion_adversidad",
+    "enunciado": "Tu plan principal fracasa estrepitosamente debido a una traición o un imprevisto mayor. Tu reacción inmediata es:",
+    "opciones": [
+      { "texto": "Adaptar el objetivo sobre la marcha, cortar pérdidas y buscar la forma de revertir la situación a tu favor.", "pesos": { "Slytherin": 3, "Ravenclaw": 1 } },
+      { "texto": "Reunir al grupo, contener el desánimo y reconstruir el esfuerzo paso a paso con paciencia.", "pesos": { "Hufflepuff": 3 } },
+      { "texto": "Confrontar directamente a quien provocó el fallo o enfrentar las consecuencias sin bajar la cabeza.", "pesos": { "Gryffindor": 3 } },
+      { "texto": "Realizar una autopsia analítica del fallo para extraer lecciones y diseñar un sistema inmune al mismo error.", "pesos": { "Ravenclaw": 3 } }
+    ]
+  },
+  {
+    "id": 14,
+    "categoria": "reaccion_adversidad",
+    "enunciado": "Te encuentras atrapado en un laberinto mágico cuyas paredes cambian y los recursos comienzan a agotarse. ¿Cuál es tu postura?",
+    "opciones": [
+      { "texto": "Identificar el patrón matemático o astronómico que rige la metamorfosis de los muros.", "pesos": { "Ravenclaw": 3 } },
+      { "texto": "Racionar estrictamente lo que queda y avanzar con determinación constante sin perder la calma.", "pesos": { "Hufflepuff": 3 } },
+      { "texto": "Marcar el territorio, buscar atajos forzados y guardar energía para el momento en que se abra una ventana.", "pesos": { "Slytherin": 3 } },
+      { "texto": "Abrir una brecha usando fuerza o encantamientos de impacto para crear tu propia salida.", "pesos": { "Gryffindor": 3 } }
+    ]
+  },
+  {
+    "id": 15,
+    "categoria": "reaccion_adversidad",
+    "enunciado": "Una figura de gran autoridad te acusa falsamente frente a tus pares. ¿Cómo respondes ante la agresión?",
+    "opciones": [
+      { "texto": "Responder en el acto con firmeza indomable, exigiendo respeto y negándote a guardar silencio.", "pesos": { "Gryffindor": 3 } },
+      { "texto": "Contener el impulso momentáneo, recopilar pruebas irrefutables y desmontar su acusación metódicamente.", "pesos": { "Ravenclaw": 3, "Slytherin": 1 } },
+      { "texto": "Recurrir al respaldo de quienes conocen tu intachable trayectoria diaria para que hablen por ti.", "pesos": { "Hufflepuff": 3 } },
+      { "texto": "Sonreír formalmente en público mientras investigas las vulnerabilidades de tu acusador para neutralizar su golpe.", "pesos": { "Slytherin": 3 } }
+    ]
+  },
+  {
+    "id": 16,
+    "categoria": "reaccion_adversidad",
+    "enunciado": "En una situación de combate o peligro extremo, ¿cuál consideras tu mayor activo instintivo?",
+    "opciones": [
+      { "texto": "La serenidad y la resistencia para aguantar la presión cuando otros se quiebran.", "pesos": { "Hufflepuff": 3 } },
+      { "texto": "La rapidez mental para explotar cualquier descuido del adversario o debilidad del entorno.", "pesos": { "Slytherin": 3, "Ravenclaw": 1 } },
+      { "texto": "La capacidad de evaluar las opciones y ejecutar la técnica precisa sin dejarte llevar por el pánico.", "pesos": { "Ravenclaw": 3 } },
+      { "texto": "La determinación inquebrantable que te impulsa a atacar y no ceder ni un milímetro.", "pesos": { "Gryffindor": 3 } }
+    ]
+  },
+  {
+    "id": 17,
+    "categoria": "relaciones_interpersonales",
+    "enunciado": "Un amigo comete una equivocación grave que afecta negativamente al equipo. ¿Cómo gestionas el vínculo?",
+    "opciones": [
+      { "texto": "Respaldarlo públicamente sin fisuras y ayudarlo en privado a enmendar el error con paciencia.", "pesos": { "Hufflepuff": 3 } },
+      { "texto": "Decirle la verdad de forma cruda y directa; la condescendencia solo perpetúa la debilidad.", "pesos": { "Gryffindor": 3 } },
+      { "texto": "Analizar con él objetivamente qué falló en el proceso para que no vuelva a ocurrir nunca más.", "pesos": { "Ravenclaw": 3 } },
+      { "texto": "Reasignar sus responsabilidades discretamente para que su error no vuelva a perjudicar los resultados del grupo.", "pesos": { "Slytherin": 3 } }
+    ]
+  },
+  {
+    "id": 18,
+    "categoria": "relaciones_interpersonales",
+    "enunciado": "¿Qué rasgo consideras imperdonable en una persona que aspira a ser tu confidente o socio?",
+    "opciones": [
+      { "texto": "La falta de lealtad: que anteponga su comodidad y te dé la espalda en los momentos difíciles.", "pesos": { "Hufflepuff": 3, "Gryffindor": 1 } },
+      { "texto": "La cobardía moral: ver injusticias evidentes y callar para no incomodar al grupo.", "pesos": { "Gryffindor": 3 } },
+      { "texto": "La cerrazón mental: la incapacidad de cuestionar sus propios sesgos y razonar con lógica.", "pesos": { "Ravenclaw": 3 } },
+      { "texto": "La ingenuidad pasiva: no tener malicia básica para anticipar los movimientos ajenos.", "pesos": { "Slytherin": 3 } }
+    ]
+  },
+  {
+    "id": 19,
+    "categoria": "relaciones_interpersonales",
+    "enunciado": "Surge una disputa envenenada entre dos miembros clave de tu círculo cercano. ¿Qué postura adoptas?",
+    "opciones": [
+      { "texto": "Mediar pacientemente, buscando un terreno común que permita sanar la relación y mantener la unidad.", "pesos": { "Hufflepuff": 3 } },
+      { "texto": "Exigir que se sienten a resolverlo de inmediato y sin rodeos, obligándolos a dar la cara.", "pesos": { "Gryffindor": 3 } },
+      { "texto": "Evaluar los argumentos de ambas partes con estricta neutralidad e indicar claramente quién tiene la razón.", "pesos": { "Ravenclaw": 3 } },
+      { "texto": "Observar en silencio para determinar qué desenlace fortalece más tus propios planes antes de intervenir.", "pesos": { "Slytherin": 3 } }
+    ]
+  },
+  {
+    "id": 20,
+    "categoria": "relaciones_interpersonales",
+    "enunciado": "¿Cómo prefieres que tus pares te perciban en el trabajo cotidiano?",
+    "opciones": [
+      { "texto": "Como alguien accesible, solidario y en quien siempre se puede confiar sin reservas.", "pesos": { "Hufflepuff": 3 } },
+      { "texto": "Como una persona perspicaz, con visión estratégica y a quien nadie puede tomar por sorpresa.", "pesos": { "Slytherin": 3 } },
+      { "texto": "Como una mente brillante, coherente y con un criterio intelectual intachable.", "pesos": { "Ravenclaw": 3 } },
+      { "texto": "Como una figura valiente, apasionada y dispuesta a arriesgarse por lo que cree.", "pesos": { "Gryffindor": 3 } }
+    ]
+  },
+  {
+    "id": 21,
+    "categoria": "curiosidad_abstraccion",
+    "enunciado": "Si pudieras desvelar con certeza absoluta la respuesta a una sola incógnita del universo, ¿cuál elegirías?",
+    "opciones": [
+      { "texto": "El mecanismo fundamental que une la conciencia, el alma y la magia primordial.", "pesos": { "Ravenclaw": 3 } },
+      { "texto": "Cómo garantizar la seguridad, prosperidad y paz duradera para toda la sociedad mágica.", "pesos": { "Hufflepuff": 3 } },
+      { "texto": "Las claves definitivas para trascender las limitaciones mortales y dominar el destino.", "pesos": { "Slytherin": 3 } },
+      { "texto": "Qué límites reales existen frente a la voluntad humana y hasta dónde puede llegar un alma indomable.", "pesos": { "Gryffindor": 3 } }
+    ]
+  },
+  {
+    "id": 22,
+    "categoria": "curiosidad_abstraccion",
+    "enunciado": "Te encuentras frente a una encrucijada en un bosque arcano con cuatro senderos. ¿Hacia cuál te inclinas?",
+    "opciones": [
+      { "texto": "Un sendero iluminado por farolas cálidas, que huele a hogar y conduce hacia una aldea acogedora.", "pesos": { "Hufflepuff": 3 } },
+      { "texto": "Una senda oculta por sombras misteriosas, con runas antiguas que prometen poder a quien las descifre.", "pesos": { "Slytherin": 3 } },
+      { "texto": "Un camino sinuoso que sube hacia un observatorio en la cima de un risco bajo un cielo estrellado.", "pesos": { "Ravenclaw": 3 } },
+      { "texto": "Un paso empinado y rugiente que atraviesa un cañón desafiante lleno de terreno inexplorado.", "pesos": { "Gryffindor": 3 } }
+    ]
+  },
+  {
+    "id": 23,
+    "categoria": "curiosidad_abstraccion",
+    "enunciado": "Al estudiar una rama nueva de la magia, ¿qué tipo de literatura prefieres consultar?",
+    "opciones": [
+      { "texto": "Tratados teóricos rigurosos que cuestionen los paradigmas conocidos y abran nuevas preguntas.", "pesos": { "Ravenclaw": 3 } },
+      { "texto": "Manuales prácticos y detallados que expliquen paso a paso cómo aplicarla eficazmente para ayudar a otros.", "pesos": { "Hufflepuff": 3 } },
+      { "texto": "Crónicas históricas de grandes líderes y estrategas que utilizaron esa magia para cambiar el curso de las guerras.", "pesos": { "Slytherin": 3 } },
+      { "texto": "Relatos de pioneros y exploradores audaces que arriesgaron sus vidas descubriendo esos encantamientos.", "pesos": { "Gryffindor": 3 } }
+    ]
+  },
+  {
+    "id": 24,
+    "categoria": "curiosidad_abstraccion",
+    "enunciado": "Si pudieras diseñar un amuleto mágico personal, ¿qué propiedad esencial le otorgarías?",
+    "opciones": [
+      { "texto": "Claridad mental absoluta: inmunidad ante ilusiones, engaños y falacias cognitivas.", "pesos": { "Ravenclaw": 3 } },
+      { "texto": "Un escudo de comunión: la capacidad de curar y aliviar el sufrimiento de quienes te rodean.", "pesos": { "Hufflepuff": 3 } },
+      { "texto": "Ojo estratégico: la facultad de percibir las verdaderas intenciones y ambiciones de cualquier persona.", "pesos": { "Slytherin": 3 } },
+      { "texto": "Fuego interior: la fuerza para nunca doblegarte ante el miedo ni claudicar en la adversidad.", "pesos": { "Gryffindor": 3 } }
+    ]
+  }
+]
