@@ -16,7 +16,7 @@ A diferencia de los tests convencionales basados en respuestas obvias o asignaci
 
 ---
 
-## 🧭 Mapeo de Casas y Rasgos Psicológicos
+##  Mapeo de Casas y Rasgos Psicológicos
 
 El sistema evalúa las cuatro casas a través de constructos de la personalidad inspirados en el modelo de los Cinco Grandes (*Big Five*):
 
